@@ -1,0 +1,58 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:visited{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+h1{
+    font-size: 40px;
+    color: black;
+    padding: 30px;
+    margin: 1px;
+    background-clip: border-box;
+}
+
+ol{
+    color:black;
+}
+
+.apple{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    font-size: 40px;
+    margin: 5px;
+}
+
+.para{
+    background-color: black;
+    color: white;
+    margin-bottom: 0px;
+    padding: 10px;
+}
+
+.grey{
+    background-color: lightgrey;
+    padding: 1px;
+    margin-top: 5px;
+}
+
+.left{
+    text-align: left;
+    background-color: #f0f0f0;
+    margin-top: 5px;
+    padding: 10px;
+}
